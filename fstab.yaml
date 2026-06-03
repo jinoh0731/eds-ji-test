@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://da.live/source/jinoh0731/eds-ji-test
+    url: https://content.da.live/jinoh0731/eds-ji-test
     type: markup
